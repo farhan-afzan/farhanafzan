@@ -1,6 +1,4 @@
-![github-header-image](https://github.com/farhan-afzan/farhanafzan/assets/154865484/439e329a-b928-46d8-9a60-596fd52b2ce6)
-
-
+![github-header-image (1)](https://github.com/farhan-afzan/farhanafzan/assets/154865484/e56b40b3-56b7-40e8-ba52-dfda45c773a6)
 
 Hello, I'm Farhan. Future data analyst with expertise in SQL, Excel, Microsoft Power BI, Tableau and Python.
 
